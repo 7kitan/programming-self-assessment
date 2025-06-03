@@ -1,5 +1,8 @@
 # Programming Skills Self-Assessment Checklist
 
+*Original matrix by Raphael 'kena' Poss, distributed under Creative Commons-ShareAlike 4.0 International License*
+*Summarized with Claude 4, original source PDF included in repo*
+
 ## Writing Code
 
 ### A1 - Basic User
@@ -234,4 +237,4 @@ Based on your checked items, you can determine your overall level in each catego
 - **C1 (Proficient User)**: Professional-level programming expertise
 - **C2 (Proficient User)**: Expert-level programming mastery
 
-*Original matrix by Raphael 'kena' Poss, distributed under Creative Commons-ShareAlike 4.0 International License*
+
